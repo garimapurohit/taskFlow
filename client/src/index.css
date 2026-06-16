@@ -1,20 +1,6 @@
-body{
+body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  color : white;
+  color: white;
   background-color: black;
-}
-nav{
-  background-color: pink;
-  color:green;
-  padding: 15px 40px;
-  display: flex;
-  align-items: center;
-}
-nav ul{
-  display: flex; 
-  gap : 25px;
-}
-nav li{
-  cursor: pointer;
 }

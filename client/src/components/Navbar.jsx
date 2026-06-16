@@ -1,14 +1,16 @@
+import './Navbar.css';
+
 function Navbar(){
     return (
-        <nav> 
-            <h1>TaskFlow</h1>
-            <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>pages</li>
-                <li>about us</li>
-            </ul>
-            </nav>
+        <nav>
+  <div class="nav-brand">TaskFlow</div>
+  <ul>
+    <li><a href="#" class="active">Home</a></li>
+    <li><a href="#">About Us</a></li>
+    <li><a href="#">Features</a></li>
+  </ul>
+  <button class="nav-cta">Get Started</button>
+</nav>
     );
 }
-export default Navbar;
+export default Navbar; 
