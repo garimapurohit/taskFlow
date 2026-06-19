@@ -5,7 +5,7 @@ function Hero() {
     { icon: "📘", label: "DSA Problems Solved", value: "245", sub: "Keep it up! 🔥", color: "purple" },
     { icon: "📅", label: "Applications Tracked", value: "18", sub: "Stay consistent! 💼", color: "green" },
     { icon: "🔥", label: "Current Streak", value: "12 Days", sub: "Don't break it! ⚡", color: "orange" },
-    { icon: "🎯", label: "Daily Goals Completed", value: "8 / 10", sub: "Almost there! 🎉", color: "blue" },
+    { icon: "🎯", label: "Daily Goals Completed", value: "8 / 10", sub: "Almost there. 🎉", color: "blue" },
   ];
 
   return (
